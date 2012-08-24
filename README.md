@@ -11,7 +11,7 @@ Lightweight
 
 ### Browser
 
-(Download)[http://raw.github.com/Umzugsagenten/dic/master/dic.js]
+[Download](http://raw.github.com/Umzugsagenten/dic/master/dic.js)
 and load it inside your HTML:
 
 ```html
