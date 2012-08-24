@@ -2,7 +2,7 @@
 # DIC (Dependency Injection Container)
 
 The lightweight JavaScript Dependency Injection Container for  
-(NodeJS)[http://nodejs.org] and the browser.
+[NodeJS](http://nodejs.org) and the browser.
 
 DIC features late dependency binding/injection and dynamic  
 mocking of objects.
