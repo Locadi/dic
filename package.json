@@ -1,0 +1,32 @@
+{
+  "name": "dic",
+  "version": "0.0.0",
+  "description": "Dependency Injection Container (DIC) for NodeJS and the browser.",
+  "author": "Oliver Leics <oliver.leics@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Umzugsagenten/dic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Umzugsagenten/dic/issues"
+  },
+  "keywords": [
+    "dependency injection container",
+    "dependency",
+    "injection",
+    "container",
+    "mock",
+    "event"
+  ],
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.1.0"    
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
