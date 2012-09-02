@@ -138,7 +138,7 @@
         if(!self.late[toName][name]) self.late[toName][name] = [];
         
         if(cfg[toName] !== true) {
-          each(keys(cfg[toName]), function() {
+          each(keys(cfg[toName]), function(event) {
             self.verbose && console.log('DIC.wire (late)', name, '>', toName, '>', event);
             
             // Setup for late-wire
